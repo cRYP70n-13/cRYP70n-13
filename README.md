@@ -30,7 +30,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 - 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/otmane-kimdil-142257167) | [Twitter](https://twitter.com/OKimdil) | [Instagram](https://instagram.com/otmanecode)
+- 📫 How to reach me: otmane.kimdil@gmail.com | [LinkedIn](https://linkedin.com/in/otmane-kimdil-142257167) | [Twitter](https://twitter.com/OKimdil) | [Instagram](https://instagram.com/otmanecode)
 - 💻 I have worked on C, C++, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, Kubernetes, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:otmane.kimdil@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
@@ -39,4 +39,4 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=cRYP70n-13&show_icons=true&hide_border=true)
 
-⭐️ From [iampavangandhi](https://github.com/cRYP70n-13)
+⭐️ From [cRYP70n-13](https://github.com/cRYP70n-13)
