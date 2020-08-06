@@ -23,7 +23,7 @@
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=cRYP70n-13.cRYP70n-13)
 
-I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Computer Science student 🎓 from 1337 (42 Network) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 ### More about me...
 
