@@ -31,7 +31,7 @@ I'm a Computer Science student 🎓 from 1337 (42 Network) 🏛. I'm a passionat
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
 - 📫 How to reach me: otmane.kimdil@gmail.com | [LinkedIn](https://linkedin.com/in/otmane-kimdil-142257167) | [Twitter](https://twitter.com/OKimdil) | [Instagram](https://instagram.com/otmanecode)
-- 💻 I have worked on C, C++, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, Kubernetes, etc.
+- 💻 I have worked on C, C++, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:otmane.kimdil@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
 
