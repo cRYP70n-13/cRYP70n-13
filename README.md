@@ -27,11 +27,11 @@ I'm a Computer Science student 🎓 from 1337 (42 Network) 🏛. I'm a passionat
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, GoLang, K8s, Docker, CI/CD, Kafka, RabbitMq etc 💻.
+- 🔭 I’m currently working on Node.js, Express.js, Typescript, GoLang, K8s, Docker, CI/CD, Kafka, Terraform etc 💻.
 - 🌱 I’m currently learning how the Go runtime works, also trying to understand the power behind Kafka and everything related to it 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving TypeScript, GoLang and distributed systems.
+- 👯 I want to collaborate on any Open Source Project involving TypeScript, GoLang, and distributed systems.
 - 📫 How to reach me: otmane.kimdil@gmail.com | [LinkedIn](https://linkedin.com/in/otmane-kimdil-142257167) | [Twitter](https://twitter.com/OKimdil) | [Instagram](https://instagram.com/otmanecode)
-- 💻 I have worked on Go, K8s, Kafka, TypeScript, Nodejs, Expressjs, postgres, MongoDB, Git, etc.
+- 💻 I have worked on Go, K8s, Kafka, TypeScript, Nodejs, Expressjs, postgres, Git, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:otmane.kimdil@gmail.com?Subject=Hello%20Pavan) 👨‍💻.
 
